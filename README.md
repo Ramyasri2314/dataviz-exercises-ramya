@@ -1,1 +1,5 @@
-Week 1: Introduction to Plotly completed
+# Data Visualization Exercises
+
+## Week 1
+- Introduction to Plotly ✅
+  
